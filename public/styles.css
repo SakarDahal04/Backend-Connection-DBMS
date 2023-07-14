@@ -1,0 +1,39 @@
+.title-section {
+    text-align: center;
+    background-color: brown;
+    border: 5px solid black;
+}
+
+.table-root {
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 5px;
+    padding: 30px;
+    background-color: burlywood;
+}
+
+tr {
+    padding: 5px;
+    margin: 3px solid black;
+}
+
+td {
+    padding: 0px 10px;
+}
+
+.container {
+    height: 20px;
+    position: relative;
+    margin: auto;
+    border: 5px solid white;
+
+}
+
+.vertical {
+    margin: 0 1.5em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
